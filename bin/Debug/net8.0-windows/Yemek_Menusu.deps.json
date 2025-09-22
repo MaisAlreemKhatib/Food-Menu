@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Yemek_Menusu/1.0.0": {
+        "runtime": {
+          "Yemek_Menusu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yemek_Menusu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
